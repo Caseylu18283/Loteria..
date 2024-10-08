@@ -1,0 +1,24 @@
+body{
+	background-size: 100%;
+	color: white;
+	text-align: center;
+    font-family: "Courier New", monospace;
+    font-size: 50px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
+a{
+	color: black;
+	font-size: 20px;
+    font-family: "Courier New", monospace;
+}
+img{
+	height: 300px;
+	width: auto;
+}
+p{
+	font-size: 20px;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
